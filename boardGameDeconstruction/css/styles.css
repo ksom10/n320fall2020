@@ -10,3 +10,12 @@ body{
 h1{
     margin-right: 90px;
 }
+
+#gamePiece1{
+    display: none;
+    fill: #df1e35;
+}
+
+#boardSquare{
+    cursor: pointer;
+}
